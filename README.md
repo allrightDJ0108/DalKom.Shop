@@ -1,4 +1,4 @@
-<h1 align=""><img src="https://avatars.githubusercontent.com/u/155041511?s=200&v=4" width="48px"> <span style="font-size: 100px font-weight: bold">Dalkom.Shop 임직원 전용 쇼핑몰</span> </h1>
+<h1 align=""><img src="https://avatars.githubusercontent.com/u/155041511?s=200&v=4" width="48px"/> <span style="font-size: 100px font-weight: bold">Dalkom.Shop 임직원 전용 쇼핑몰</span> </h1>
 <p>
 </p>
 
@@ -16,10 +16,11 @@
 
 ## ✨ 프로젝트 소개
 
-```sh
-Allways Blog는 기존의 블로그 서비스들의 장점을 가져와 진입 장벽이 낮으면서도
-AI를 활용한 다양하면서도 편리한 커스터마이징 기능을 제공하는 블로그 서비스이다.
-```
+- DalKom.Shop은 DKT 직원들을 위한 전용 쇼핑몰입니다.
+
+- 직원만 가입할 수 있으며, 각 직원은 개인 계정으로 로그인하여 제품 구매가 가능합니다.
+
+- 회사에서 제공하는 마일리지를 활용하여 다양한 상품 및 혜택을 이용할 수 있습니다.
 
 ## :mag: 서비스 주요기능
 
@@ -55,7 +56,7 @@ AI를 통해 키워드를 입력해 이미지를 생성할 수 있다.
 ### Tech Stack
 
 <center>
-    <img src="/assets/img/techstack.png" alt="DoKebi"/>
+    <img src="/assets/img/기술스택.png" style="width:500px;" alt="DoKebi"/>
 </center>
 
 ### System Architecture
@@ -64,23 +65,12 @@ AI를 통해 키워드를 입력해 이미지를 생성할 수 있다.
     <img src="https://github.com/KEA-DoKebi/.github/assets/75898031/4cbc5471-103b-4a51-9e4b-e4a20633663c" alt="DoKebi"/>
 </center>
 
-### Network
-
-<center>
-    <img src="/assets/img/network.png" alt="DoKebi"/>
-</center>
-
-### ERD
-
-<center>
-    <img src="/assets/img/erd.png" alt="DoKebi"/>
-</center>
 
 
 <br>
 
 
-## 🤼‍♂️Member
+## <img src="https://avatars.githubusercontent.com/u/155041511?s=200&v=4" width="30px"/> Team DoKebi
 
 
 
