@@ -3,7 +3,7 @@
 </p>
 
 <center>
-    <img src="https://github.com/KEA-DoKebi/.github/assets/78808933/e703334f-23f8-4905-925f-352c5b704e65" alt="Allways" style="width:500px;" align="center"/>
+    <img src="https://github.com/KEA-DoKebi/.github/assets/78808933/e703334f-23f8-4905-925f-352c5b704e65" alt="DoKebi" style="width:500px;" align="center"/>
 </center>
 
 <p></p>
@@ -24,7 +24,7 @@ AI를 활용한 다양하면서도 편리한 커스터마이징 기능을 제공
 ## :mag: 서비스 주요기능
 
 <center>
-    <img src="/assets/img/requirements.png" alt="Allways"  align="center"/>
+    <img src="/assets/img/requirements.png" alt="DoKebi"  align="center"/>
 </center>
 
 ### 1. 다채로운 테마
@@ -39,30 +39,41 @@ AI를 활용한 다양하면서도 편리한 커스터마이징 기능을 제공
 AI를 통해 키워드를 입력해 이미지를 생성할 수 있다.
 
 
+## 📆 프로젝트 개발일정
+
+| 프로세스 단계   | 일정               |
+| :------------: | :---------------: | 
+| 기획 및 분석   | 23.12.27 ~ 24.01.05 | 
+| 설계           | 24.01.06 ~ 24.01.12 | 
+| 구현           | 24.01.13 ~ 24.02.02 | 
+| 검증           | 24.02.05 ~ 24.02.08 | 
+| 종료           | 24.02.09 ~ 24.02.16 | 
+
+
 ## :wrench: Tech Stack
 
 ### Tech Stack
 
 <center>
-    <img src="/assets/img/techstack.png" alt="Allways"/>
+    <img src="/assets/img/techstack.png" alt="DoKebi"/>
 </center>
 
 ### System Architecture
 
 <center>
-    <img src="/assets/img/arch.png" alt="Allways"/>
+    <img src="https://github.com/KEA-DoKebi/.github/assets/75898031/4cbc5471-103b-4a51-9e4b-e4a20633663c" alt="DoKebi"/>
 </center>
 
 ### Network
 
 <center>
-    <img src="/assets/img/network.png" alt="Allways"/>
+    <img src="/assets/img/network.png" alt="DoKebi"/>
 </center>
 
 ### ERD
 
 <center>
-    <img src="/assets/img/erd.png" alt="Allways"/>
+    <img src="/assets/img/erd.png" alt="DoKebi"/>
 </center>
 
 
@@ -71,15 +82,42 @@ AI를 통해 키워드를 입력해 이미지를 생성할 수 있다.
 
 ## 🤼‍♂️Member
 
-| Name | Student Number | University | Contributed Parts | Github Link |
-| :---: | :---: | :---: | :---: | :---: |
-| 최다정 | 201736049 | 가천대 | PM, Back | [Github](https://github.com/allrightDJ0108) |
-| 김민준 | 201835419 | 가천대 | PL, Infra | [Github](https://github.com/minjun0707) |
-| 김동현 | 201935217 | 가천대 | Infra | [Github](https://github.com/eastlighting1)|
-| 김민수 | 201735812 | 가천대 | Front | [Github](https://github.com/ms987796) |
-| 김성준 | 201735925 | 가천대 | Front, Infra | [Github](https://github.com/sungjun-singer) |
-| 김주혜 | 202034909 | 가천대 | Front | [Github](https://github.com/juhye87) |
-| 김지오 | 202035321 | 가천대 | Back | [Github](https://github.com/xornjswldh) |
-| 류창민 | 201735826 | 가천대 | Back | [Github](https://github.com/changmeen) |
-| 백현정 | 201935059 | 가천대 | Back | [Github](https://github.com/Baekhyunjung) |
-| 황수하 | 201735899 | 가천대 | Back | [Github](https://github.com/hp0724) |
+
+
+<div align="center">
+
+<table>
+<tr>
+    <!-- Header Row -->
+    <th>BE / PM</th>
+    <th>Infra / PL</th>
+    <th>Infra</th>
+    <th>FE</th>
+    <th>FE</th>
+    <th>FE</th>
+    <th>BE</th>
+    <th>BE</th>
+    <th>BE</th>
+    <th>BE</th>
+</tr>
+<tr>
+    <!-- Images and Names Row -->
+    <td><img src="https://github.com/allrightDJ0108.png" alt="Choi Dajeong" style="width:100px;"><br/>최다정</td>
+    <td><img src="https://github.com/minjun0707.png" alt="Kim Minjun" style="width:100px;"><br/>김민준</td>
+    <td><img src="https://github.com/allrightDJ0108.png" alt="Kim DongHyun" style="width:100px;"><br/>김동현</td>
+    <td><img src="https://github.com/ms987796.png" alt="Kim Minsu" style="width:100px;"><br/>김민수</td>
+    <td><img src="https://github.com/sungjun-singer.png" alt="Kim Sungjun" style="width:100px;"><br/>김성준</td>
+    <td><img src="https://github.com/juhye87.png" alt="Kim Juhye" style="width:100px;"><br/>김주혜</td>
+    <td><img src="https://github.com/xornjswldh.png" alt="Kim Jio" style="width:100px;"><br/>김지오</td>
+    <td><img src="https://github.com/changmeen.png" alt="Ryu Changmin" style="width:100px;"><br/>류창민</td>
+    <td><img src="https://github.com/Baekhyunjung.png" alt="Baek Hyunjung" style="width:100px;"><br/>백현정</td>
+    <td><img src="https://github.com/hp0724.png" alt="Hwang Suha" style="width:100px;"><br/>황수하</td>
+</tr>
+</table>
+
+</center>
+
+
+
+</div>
+
