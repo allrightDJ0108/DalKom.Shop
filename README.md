@@ -94,9 +94,9 @@ ElasticSearch를 활용한 검색 엔진을 적용하여, 사용자는 원하는
 </tr>
 <tr>
     <!-- Images and Names Row -->
-    <td><img src="/assets/img/다정.png" alt="Choi Dajeong" style="width:100px;"><br/>최다정</td>
+    <td><img src="https://github.com/allrightDJ0108.png" alt="Choi Dajeong" style="width:100px;"><br/>최다정</td>
     <td><img src="https://github.com/minjun0707.png" alt="Kim Minjun" style="width:100px;"><br/>김민준</td>
-    <td><img src="https://github.com/allrightDJ0108.png" alt="Kim DongHyun" style="width:100px;"><br/>김동현</td>
+    <td><img src="https://github.com/ms987796.png" alt="Kim DongHyun" style="width:100px;"><br/>김동현</td>
     <td><img src="https://github.com/ms987796.png" alt="Kim Minsu" style="width:100px;"><br/>김민수</td>
     <td><img src="https://github.com/sungjun-singer.png" alt="Kim Sungjun" style="width:100px;"><br/>김성준</td>
     <td><img src="https://github.com/juhye87.png" alt="Kim Juhye" style="width:100px;"><br/>김주혜</td>
