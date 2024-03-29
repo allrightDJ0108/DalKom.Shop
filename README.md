@@ -22,6 +22,37 @@
 
 - 회사에서 제공하는 마일리지를 활용하여 다양한 상품 및 혜택을 이용할 수 있습니다.
 
+<br>
+
+## 📆 프로젝트 개발일정
+
+| 프로세스 단계   | 일정               |
+| :------------: | :---------------: | 
+| 기획 및 분석   | 23.12.27 ~ 24.01.05 | 
+| 설계           | 24.01.06 ~ 24.01.12 | 
+| 구현           | 24.01.13 ~ 24.02.02 | 
+| 검증           | 24.02.05 ~ 24.02.08 | 
+| 종료           | 24.02.09 ~ 24.02.16 | 
+
+<br>
+
+## :wrench: Tech Stack
+
+### Tech Stack
+
+<center>
+    <img src="/assets/img/기술스택.png" style="width:500px;" alt="DoKebi"/>
+</center>
+
+### System Architecture
+
+<center>
+    <img src="https://github.com/KEA-DoKebi/.github/assets/75898031/4cbc5471-103b-4a51-9e4b-e4a20633663c" style="width:500px;" alt="DoKebi"/>
+</center>
+
+
+<br>
+
 ## :mag: 프로젝트 주요기능
 
 <center>
@@ -40,34 +71,8 @@ ElasticSearch를 활용한 검색 엔진을 적용하여, 사용자는 원하는
 ### 4. Jira와 문의 기능을 연동, 사용자 요청에 빠른 대응
 관리자는 서비스에 직접 접속하지 않아도 Jira를 통해 사용자의 요청에 빠른 대응이 가능합니다.
 
-<br>
 
-## 📆 프로젝트 개발일정
-
-| 프로세스 단계   | 일정               |
-| :------------: | :---------------: | 
-| 기획 및 분석   | 23.12.27 ~ 24.01.05 | 
-| 설계           | 24.01.06 ~ 24.01.12 | 
-| 구현           | 24.01.13 ~ 24.02.02 | 
-| 검증           | 24.02.05 ~ 24.02.08 | 
-| 종료           | 24.02.09 ~ 24.02.16 | 
-
-
-## :wrench: Tech Stack
-
-### Tech Stack
-
-<center>
-    <img src="/assets/img/기술스택.png" style="width:500px;" alt="DoKebi"/>
-</center>
-
-### System Architecture
-
-<center>
-    <img src="https://github.com/KEA-DoKebi/.github/assets/75898031/4cbc5471-103b-4a51-9e4b-e4a20633663c" style="width:500px;" alt="DoKebi"/>
-</center>
-
-
+<img src='https:/assets/img/엘라스틱검색.gif'>
 
 <br>
 
