@@ -10,11 +10,11 @@
 
 > DalKom.shop : 임직원 전용 쇼핑몰 (dktechin 기업실무 프로젝트)
 
-### 🏠 [GitHub](https://github.com/orgs/KEA-DoKebi/repositories) :clapper:[Demo](https://youtu.be/JiH_-ZU2D8Q?si=hlXKrv7ETwXxyJmk) :microphone:[Presentation](https://youtu.be/JE-EtwOLTw4?si=AyP1i8Ta6DoNsTc0) 
+### :computer: [GitHub](https://github.com/orgs/KEA-DoKebi/repositories) :clapper: [Demo](https://youtu.be/JiH_-ZU2D8Q?si=hlXKrv7ETwXxyJmk) :microphone: [Presentation](https://youtu.be/JE-EtwOLTw4?si=AyP1i8Ta6DoNsTc0) 
 
 <br>
 
-## ✨ 프로젝트 소개
+## :open_file_folder: 프로젝트 소개
 
 - DalKom.Shop은 DKT 직원들을 위한 전용 쇼핑몰입니다.
 
@@ -36,7 +36,7 @@
 
 <br>
 
-## :wrench: Tech Stack
+## :scroll: Tech Stack
 
 ### Tech Stack
 
@@ -51,6 +51,7 @@
 </center>
 
 
+<br>
 <br>
 
 ## :mag: 프로젝트 주요기능
