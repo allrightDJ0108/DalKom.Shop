@@ -25,28 +25,22 @@
 ## :mag: 프로젝트 주요기능
 
 <center>
-    <img src="/assets/img/주요기능.png" alt="DoKebi" style="width:800px;"  align="center"/>
+    <img src="/assets/img/wowpoints.png" alt="DoKebi" style="width:800px;"  align="center"/>
 </center>
 
-### 1. 메일을 이용한 알림 서비스
-사용자는 하나의 블로그로 주제가 다른 여러개의 블로그를 운영할 수 있다. <br />
-블로그의 카테고리를 클릭하면 해당 카테고리의 배경 이미지로 변경된다.
+### 1. 엘라스틱 검색엔진을 활용한 상품 검색 서비스
+ElasticSearch를 활용한 검색 엔진을 적용하여, 사용자는 원하는 상품을 보다 쉽게 검색 가능합니다.
 
-### 2. 쇼핑몰 통계 시각화 서비스
-사전에 저장해둔 템플릿을 통해 사용자는 빠르고 쉽게 게시글을 작성할 수 있다.
+### 2. chatGPT를 활용한 상품 비교 서비스
+사용자는 최대 3개의 상품을 선택해 chatGPT가 분석해준 리뷰를 바탕으로 상품을 한 눈에 비교할 수 있습니다.
 
-### 3. 엘라스틱을 활용한 상품 검색 서비스
-사용자는 테마를 생성하거나 썸네일을 생성할 때 <br />
-AI를 통해 키워드를 입력해 이미지를 생성할 수 있다.
+### 3. 쇼핑몰 통계 시각화 서비스
+관리자는 대시보드에서 쇼핑몰의 판매 현황을 한 눈에 확인할 수 있습니다.
 
-### 4. 메일을 이용한 알림 서비스
-사용자는 하나의 블로그로 주제가 다른 여러개의 블로그를 운영할 수 있다. <br />
-블로그의 카테고리를 클릭하면 해당 카테고리의 배경 이미지로 변경된다.
+### 4. Jira와 문의 기능을 연동, 사용자 요청에 빠른 대응
+관리자는 서비스에 직접 접속하지 않아도 Jira를 통해 사용자의 요청에 빠른 대응이 가능합니다.
 
-### 5. 메일을 이용한 알림 서비스
-사용자는 하나의 블로그로 주제가 다른 여러개의 블로그를 운영할 수 있다. <br />
-블로그의 카테고리를 클릭하면 해당 카테고리의 배경 이미지로 변경된다.
-
+<br>
 
 ## 📆 프로젝트 개발일정
 
@@ -70,7 +64,7 @@ AI를 통해 키워드를 입력해 이미지를 생성할 수 있다.
 ### System Architecture
 
 <center>
-    <img src="https://github.com/KEA-DoKebi/.github/assets/75898031/4cbc5471-103b-4a51-9e4b-e4a20633663c" alt="DoKebi"/>
+    <img src="https://github.com/KEA-DoKebi/.github/assets/75898031/4cbc5471-103b-4a51-9e4b-e4a20633663c" style="width:500px;" alt="DoKebi"/>
 </center>
 
 
@@ -100,7 +94,7 @@ AI를 통해 키워드를 입력해 이미지를 생성할 수 있다.
 </tr>
 <tr>
     <!-- Images and Names Row -->
-    <td><img src="https://github.com/allrightDJ0108.png" alt="Choi Dajeong" style="width:100px;"><br/>최다정</td>
+    <td><img src="/assets/img/다정.png" alt="Choi Dajeong" style="width:100px;"><br/>최다정</td>
     <td><img src="https://github.com/minjun0707.png" alt="Kim Minjun" style="width:100px;"><br/>김민준</td>
     <td><img src="https://github.com/allrightDJ0108.png" alt="Kim DongHyun" style="width:100px;"><br/>김동현</td>
     <td><img src="https://github.com/ms987796.png" alt="Kim Minsu" style="width:100px;"><br/>김민수</td>
