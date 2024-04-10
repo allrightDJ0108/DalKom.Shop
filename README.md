@@ -10,7 +10,7 @@
 
 > DalKom.shop : 임직원 전용 쇼핑몰 (dktechin 기업실무 프로젝트)
 
-### :computer: [GitHub](https://github.com/orgs/KEA-DoKebi/repositories) :clapper: [Demo](https://youtu.be/JiH_-ZU2D8Q?si=hlXKrv7ETwXxyJmk) :microphone: [Presentation](https://youtu.be/JE-EtwOLTw4?si=AyP1i8Ta6DoNsTc0) 
+### :computer: [GitHub](https://github.com/orgs/KEA-DoKebi/repositories) 📄 [Report](https://drive.google.com/file/d/18Pb35TPmgC5HzVKLwJaWhfaPJ4s_I3jk/view?usp=sharing) :clapper: [Demo](https://youtu.be/JiH_-ZU2D8Q?si=hlXKrv7ETwXxyJmk) :microphone: [Presentation](https://youtu.be/JE-EtwOLTw4?si=AyP1i8Ta6DoNsTc0) 
 
 <br>
 
